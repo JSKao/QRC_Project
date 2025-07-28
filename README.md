@@ -1,7 +1,7 @@
 # Quantum Reservoir Computing (QRC)
 ![CI](https://github.com/JSKao/QRC_Project/actions/workflows/ci.yml/badge.svg)
 
-## 專案簡介
+## Intro
 The Project demonstrates Quantum Reservoir Computing (QRC）for various model systems，and analyze their capabilities.
 
 ## Index
