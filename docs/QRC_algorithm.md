@@ -1,6 +1,6 @@
 **Generic Quantum System** $H = \sum_{i < j} J_{ij} \sigma_x^{(i)} \sigma_x^{(j)} + h \sum_{i} \sigma_z^{(i)} $
 
-- $ J_{ij} $：隨機耦合強度，從 $[-J_s/2, J_s/2]$ 中均勻抽樣。
+- $J_{ij}$：隨機耦合強度，從 $[-J_s/2, J_s/2]$ 中均勻抽樣。
 - h ：橫場強度。
 - $ \sigma_x^{(i)}$ and $ \sigma_z^{(i)} $：第 (i) 個自旋的 Pauli 矩陣。
 
