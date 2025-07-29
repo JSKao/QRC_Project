@@ -8,4 +8,5 @@ def test_qrc_system_runs():
     expectation_values, distance_values, x_values, rho_histories = qrc.run_trials(tlist, delta_t_list)
     assert len(expectation_values) == len(delta_t_list)
     assert len(distance_values) == len(delta_t_list)
+    
     assert len(rho_histories) == len(delta_t_list)
