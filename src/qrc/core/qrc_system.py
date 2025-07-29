@@ -64,4 +64,5 @@ class QRCSystem:
                 # after updating rho_current
                 rho_histories[trial_count].append(rho_current)
                 step_count += 1
+                
         return expectation_values, distance_values, x_values, rho_histories
