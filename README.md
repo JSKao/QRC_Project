@@ -13,6 +13,6 @@ The Project demonstrates Quantum Reservoir Computing (QRC）for various model sy
 
 ## Installation
 ```bash
-git clone https://github.com/你的帳號/QRC_Project.git
+git clone https://github.com/JSKao/QRC_Project.git
 cd QRC_Project
 pip install -r requirements.txt
