@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .venv/
 .ipynb_checkpoints/
+docs/QRC.ipynb
+docs/private_roadmap.md
+docs/to_do_list.md
