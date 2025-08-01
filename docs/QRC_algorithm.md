@@ -42,7 +42,7 @@ $H = \sum_{i < j} J_{ij} \sigma_x^{(i)} \sigma_x^{(j)} + h \sum_{i} \sigma_z^{(i
 STM quantifies the system's ability to remember past inputs. It is based on the correlation between the input sequence and the system's output.
 
 **Formula:**  
-$ MC = \sum_{\tau} \text{Corr}^2(y(t), x(t-\tau)) $
+$MC = \sum_{\tau} \text{Corr}^2(y(t), x(t-\tau))$
 Where:
 - $x(t)$: Input sequence
 - $y(t)$: System output
